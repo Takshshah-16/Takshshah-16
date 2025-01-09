@@ -6,7 +6,7 @@
 - I am currently engaged in Machine learning for predictive modelling and LLM integration to automate processes.
 - ![image](https://github.com/user-attachments/assets/9a04ed4e-59ff-489e-aef6-584d1e9f381a)
 
-- Apart from coding u can find actively involved in playing outdoor sports and a keen intersr for exploring new places and environment. My second best passion is playing sports.
+- Apart from coding u can find actively involved in playing outdoor sports and a keen interest for exploring new places and environment.
 
 - Hoping to collaborate with brilliant minds across and building something substantial to revolutionize mordern day technology
 
