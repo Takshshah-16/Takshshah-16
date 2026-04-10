@@ -1,4 +1,4 @@
-- 👋 Hello folks, myself Taksh Shah, an aspiring data analyst and a student full stack developer.
+- 👋 Hello folks, myself Taksh Shah, an aspiring data analyst.
 - ![image](https://github.com/user-attachments/assets/41a32850-6dc2-4ba4-b3aa-53f476f94636)
 
 - I am passionate about coding and love building projects to derive insights for businesses. I believe integrating technology alongside business is imperative for success. Data drivren approach has always been my liking.
