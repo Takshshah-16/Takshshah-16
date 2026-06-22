@@ -1,17 +1,39 @@
-- 👋 Hello folks, myself Taksh Shah, an aspiring data analyst.
-- ![image](https://github.com/user-attachments/assets/41a32850-6dc2-4ba4-b3aa-53f476f94636)
+# Hi, I'm Taksh Shah 👋
 
-- I am passionate about coding and love building projects to derive insights for businesses. I believe integrating technology alongside business is imperative for success. Data drivren approach has always been my liking.
+I am an aspiring Data Scientist passionate about using data, analytics and AI to solve modern business problems.
 
-- I am currently engaged in Machine learning for predictive modelling and LLM integration to automate processes.
-- ![image](https://github.com/user-attachments/assets/9a04ed4e-59ff-489e-aef6-584d1e9f381a)
+I enjoy transforming raw datasets into actionable insights and building intelligent solutions that help businesses make better decisions.
 
-- Apart from coding u can find actively involved in playing outdoor sports and a keen interest for exploring new places and environment.
+## 🚀 What I'm Currently Building
 
-- Hoping to collaborate with brilliant minds across and building something substantial to revolutionize mordern day technology
+- 📊 Data Analytics projects using SQL, Power BI and Python
+- 🤖 Machine Learning solutions for business use cases
+- 📈 End-to-end Data Science projects
+- 🌐 A professional portfolio website
 
 
-<!---
-Takshshah-16/Takshshah-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img width="1024" height="733" alt="HU-Prog-IT-Data-Analytics" src="https://github.com/user-attachments/assets/62736e10-7b6d-41ca-8895-707eda8c8e03" />
+
+## 🛠️ Tech Stack
+
+Languages:
+Python | SQL
+
+Data Science:
+Pandas | NumPy | Scikit-Learn
+
+Visualization:
+Power BI | Matplotlib | Seaborn | Excel
+
+Databases:
+MySQL | PostgreSQL | MongoDB 
+
+## 🎯 My Goal
+
+I don't just build dashboards.
+
+I use data to identify problems, uncover patterns and create solutions that generate business impact.
+
+## 🌐 Connect With Me
+
+LinkedIn- https://www.linkedin.com/in/taksh-shah-131862248/
