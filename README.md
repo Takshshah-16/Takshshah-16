@@ -9,8 +9,6 @@ I enjoy transforming raw datasets into actionable insights and building intellig
 - 📊 Data Analytics projects using SQL, Power BI and Python
 - 🤖 Machine Learning solutions for business use cases
 - 📈 End-to-end Data Science projects
-- 🌐 A professional portfolio website
-
 
   <img width="1024" height="733" alt="HU-Prog-IT-Data-Analytics" src="https://github.com/user-attachments/assets/62736e10-7b6d-41ca-8895-707eda8c8e03" />
 
